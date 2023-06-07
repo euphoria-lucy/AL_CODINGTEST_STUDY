@@ -1,2 +1,1 @@
-# AL_CODINGTEST_STUDY
-This is a auto push repository for Baekjoon Online Judge created with [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub).
+<h1> <img src = "https://cdn-icons-png.flaticon.com/128/4525/4525655.png" width = "35" height = "35" > 2023 ALONE CODING TEST STUDY <img src = "https://cdn-icons-png.flaticon.com/128/4525/4525655.png" width = "35" height = "35" > </h1>
