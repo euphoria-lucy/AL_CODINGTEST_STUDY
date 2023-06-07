@@ -1,0 +1,21 @@
+import java.util.Scanner;
+
+public class Main {
+    public static void main(String[] args) {
+        // 백준_2753번_윤년
+
+        Scanner sc = new Scanner(System.in);
+
+        int year = sc.nextInt();
+
+        if (year >= 1 && year <= 4000) {
+            if (year % 4 == 0 && year % 100 != 0 || year % 400 == 0) {
+                System.out.println("1");
+            } else {
+                System.out.println("0");
+            }
+        }
+
+
+    }
+}
